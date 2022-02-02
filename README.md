@@ -11,5 +11,7 @@ https://downloads.guitar-pro.com/gp6/Banks-r370.gpbank
 
 
 ## Install Soundbanks
+```
 cd /opt/GuitarPro6
 sudo ./GPBankInstaller ~/Downloads/Banks-r370.gpbank .
+```
